@@ -1,4 +1,2 @@
 hello git
-hi! 
-Let's go to the first project!!! 
-ok
+
